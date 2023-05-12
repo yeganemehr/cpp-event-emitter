@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+	"name": "event-emitter",
+	"version": "1.0.0",
+	"description": "It's a javascript-like EventEmitter for c++ can used widely in async projects.",
+	"keywords":["async", "promise", "es6"],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yeganemehr/cpp-event-emitter.git"
+	},
+	"authors": [{
+		"name": "Amir H. Yeganemehr",
+		"maintainer": true
+	}],
+	"frameworks": "*",
+	"platforms": "*",
+	"homepage": "https://github.com/yeganemehr/cpp-event-emitter"
+}
